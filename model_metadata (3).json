@@ -1,0 +1,13 @@
+{
+    "model_type": "Compact CNN",
+    "class_names": [
+        "benign",
+        "malignant"
+    ],
+    "image_height": 160,
+    "image_width": 160,
+    "channels": 3,
+    "threshold": 0.5,
+    "test_accuracy": 0.893,
+    "model_file": "best_cnn_model.keras"
+}
