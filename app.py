@@ -9,8 +9,8 @@ from PIL import Image
 
 ROOT = Path(__file__).resolve().parent
 
-MODEL_PATH = ROOT / "best_cnn_model.keras"
-META_PATH = ROOT / "model_metadata.json"
+MODEL_PATH = ROOT / "best_cnn_model (2).keras"
+META_PATH = ROOT / "model_metadata (3).json"
 
 st.set_page_config(
     page_title="Skin Cancer CNN Classifier",
