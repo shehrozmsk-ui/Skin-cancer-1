@@ -1,0 +1,17 @@
+SKIN CANCER DATASET EDA REPORT
+=============================================
+
+Training folder: /kaggle/input/datasets/shehrozmsk/skin-cancer-treatment-1/melanoma_cancer_dataset/train
+Testing folder: /kaggle/input/datasets/shehrozmsk/skin-cancer-treatment-1/melanoma_cancer_dataset/test
+
+TRAINING COUNTS
+benign: 5000
+malignant: 4605
+
+TESTING COUNTS
+benign: 500
+malignant: 500
+
+Total training images: 9605
+Total testing images: 1000
+Image dimensions sampled: 100
